@@ -1,0 +1,53 @@
+#mycard {
+    width: 20rem;
+    margin-right: 10px;
+    background-color: rgb(23, 23, 23);
+    margin-bottom: 10px;
+    position: relative;
+    margin-top: 20px;
+}
+#title {
+    color: aliceblue;
+}
+#desc {
+    color: aliceblue;
+}
+
+body{
+    
+        background-image: url("https://wallpaperheart.com/wp-content/uploads/2018/03/ball-football-wallpapers-HD.jpg");
+        background-size: cover;
+    
+}
+
+
+#rout {
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bolder;
+    background-color:burlywood;
+    font-size: 50px;
+    color:crimson;
+  }
+
+  #name {
+
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    background-color: chartreuse;
+    color:crimson;
+    
+
+  }
+
+
+  #foxer{
+      font-size:3em;
+      color:lawngreen;
+      font-weight: bolder;
+  }
